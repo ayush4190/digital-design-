@@ -1,5 +1,4 @@
-# Digital-design-
-
+# Digital-design
 ---
 
 This project is about showing the working circuit behind the game Whack-a-mole.
